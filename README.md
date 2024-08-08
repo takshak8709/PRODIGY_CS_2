@@ -29,7 +29,7 @@ pip install pillow numpy
 1. *Clone or Download the Repository:*
 
    bash
-   git clone https://github.com/yourusername/image-encryption-tool.git
+   git clone https://github.com/takshak8709/image-encryption-tool.git
    cd image-encryption-tool
    
 
